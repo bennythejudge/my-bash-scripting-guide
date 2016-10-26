@@ -1,4 +1,4 @@
-#My guide to Bash scripting
+#My guide to Bash scripting **WORK IN PROGRESS**
 
 ## Disclaimer
 This are personal notes, only accidentally shared on the Internet.
@@ -15,7 +15,7 @@ Using the follow might make the script more "portable" although not necessarily 
 
 ## Declaring variables?
 Variables don't need to be declared but declaring them can help.
-`declare -
+`declare -`
 
 
 
